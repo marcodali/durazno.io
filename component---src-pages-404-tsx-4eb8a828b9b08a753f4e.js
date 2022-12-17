@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdurazno_website=self.webpackChunkdurazno_website||[]).push([[218],{938:function(e,n,u){u.r(n);var t=u(7294);n.default=function(){return t.createElement("div",null,"404")}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-4eb8a828b9b08a753f4e.js.map

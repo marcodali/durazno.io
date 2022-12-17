@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-4eb8a828b9b08a753f4e.js","mappings":"2IAMA,UAJkB,WAChB,OAAO","sources":["webpack://durazno-website/./src/pages/404.tsx"],"sourcesContent":["import React from \"react\";\n\nconst ErrorPage = () => {\n  return <div>404</div>;\n};\n\nexport default ErrorPage;\n"],"names":[],"sourceRoot":""}
